@@ -1,0 +1,2 @@
+This time i understood better, that how to make the website resposive for mobile screens, and hence applied whatever i learnt.
+There were few problems i faced but somehow managed and hence it was easy peasy after that.
